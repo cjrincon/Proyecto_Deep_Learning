@@ -1,4 +1,4 @@
-# Proyecto_Deep_Learning
+# Proyecto_deep_learning
 
 En este repositorio se encuentra el proyecto final del curso Deep Learning
 
